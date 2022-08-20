@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Hendrikson Petzold 👋
 
-- 🌱 Desenvolvedor Dart & Flutter
+- 💻 Desenvolvedor Dart & Flutter
 - 💼 Formado em Engenharia
 - 💼 Pós-Graduado em Engenharia de Segurança do Trabalho
 - 📫 Contate-me no email: hendrikson_14@hotmail.com
