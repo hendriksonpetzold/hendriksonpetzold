@@ -4,6 +4,7 @@
 - 💼 Formado em Engenharia
 - 💼 Pós-Graduado em Engenharia de Segurança do Trabalho
 - 📫 Contate-me no email: hendrikson_14@hotmail.com
+- 📫 Meu portifólio: https://hendrikson-web-project.web.app/#/initial
 
 <div >
   <a href="https://github.com/hendriksonpetzold">
